@@ -1,2 +1,2 @@
 # Mathematica-files
-Mathematica files appeared in my papers 
+Mathematica files appeared in my papers.
